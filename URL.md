@@ -12,6 +12,9 @@ https://www.rtl-sdr.com/
 mathworks
 https://jp.mathworks.com/discovery/sdr.html
 
+PySDR
+https://pysdr.org/index.html
+
 ほか
 https://jm3atn.org/2021/05/08/rtl-sdr-blog-v3%E3%81%8C%E5%B1%8A%E3%81%84%E3%81%9F/
 https://monoist.itmedia.co.jp/mn/articles/2208/22/news019_2.html
