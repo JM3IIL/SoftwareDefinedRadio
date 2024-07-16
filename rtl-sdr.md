@@ -3,6 +3,8 @@
 ## dongles
 https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/
 
+## 仕組み
+https://qiita.com/tshimizu8/items/bafa3d33b46bcd343bda
 
 ## インストール
 
