@@ -12,6 +12,8 @@ https://jrmora.com/ja/rtl-sdr%e3%83%96%e3%83%ad%e3%82%b0v4%e3%80%81%e3%82%82%e3%
 
 https://jrmora.com/ja/rtl-sdr-blog-v4%E3%80%81%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/
 
+https://ameblo.jp/yasu-s2000/entry-12853469942.html
+
 https://airspy.com/downloads/SDRsharp_Big_Book_2024.pdf
 
 
