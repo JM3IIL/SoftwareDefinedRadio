@@ -38,3 +38,10 @@ http://blog.livedoor.jp/bh5ea20tb/archives/5022979.html
 パソコンでD-STARの電波を受信（復調）してみる
 https://blog.goo.ne.jp/jg7ubp/e/c93d097faaa4fb714ed855c4a73233ed
 
+## SDR製作
+SDRをつくってみました(2)
+JH3RGD 葭谷安正
+2024年2月1日掲載
+https://www.fbnews.jp/202402/manufacturing/
+
+
