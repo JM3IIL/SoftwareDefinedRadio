@@ -9,6 +9,9 @@ https://en.wikipedia.org/wiki/Software-defined_radio
 RTL-SDR.COM(英語) RTL-SDR (RTL2832U) and software defined radio news and projects. Also featuring Airspy, HackRF, FCD, SDRplay and more.
 https://www.rtl-sdr.com/
 
+SDR# (Software)
+https://airspy.com/quickstart/
+
 mathworks
 https://jp.mathworks.com/discovery/sdr.html
 
