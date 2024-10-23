@@ -14,7 +14,7 @@ https://herdaradio.com/ja/blog/radioknowledge/demodulation-techniques-unveiled/
 
 ## 参考
 ### 自作
-Ｓｏｆｔｗａｒｅ　Ｄｅｆｉｎｅｄ　Ｒａｄｉｏ　２００７.２.11
+Software Defined Radio 2007/02/11
 http://jr1pwz.my.coocan.jp/ham/software-radio/sdr1.htm
 
 シグナルジェネレータ「Si5351A」をデジタル変調器として使ってみる
@@ -29,23 +29,21 @@ https://rxlife.net/review/ardv1Review.php
 デジタル復調の学習を目的として、ワンセグチューナーで地デジのフルセグTSを抜く
 https://qiita.com/amutou/items/5ae1e7dfb560ccfc4a69
 
-送受信ＳＤＲソフトウエア　<< KG-TRX >>
+送受信SDRソフトウエア　<< KG-TRX >>
 http://www2.plala.or.jp/hikokibiyori/soft/kgtrx/
 
 RTL-SDR DSD1.7でデジタルアマチュア無線D-STARを受信してみましょう。デジタル復調確認！
 http://blog.livedoor.jp/bh5ea20tb/archives/5022979.html
 
-パソコンでD-STARの電波を受信（復調）してみる
+パソコンでD-STARの電波を受信(復調)してみる
 https://blog.goo.ne.jp/jg7ubp/e/c93d097faaa4fb714ed855c4a73233ed
 
-初心者でもわかるSDR大研究 平成30年8月25日
+初心者でもわかるSDR大研究 2018/08/25
 https://www.jaia.or.jp/shiryo/2018ham.pdf
 
 
 ## SDR製作
-SDRをつくってみました(2)
-JH3RGD 葭谷安正
-2024年2月1日掲載
+SDRをつくってみました(2) 2024/02/01 JH3RGD 葭谷安正
 https://www.fbnews.jp/202402/manufacturing/
 
 
