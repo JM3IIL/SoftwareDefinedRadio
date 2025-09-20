@@ -25,4 +25,18 @@ https://monoist.itmedia.co.jp/mn/articles/2208/22/news019_2.html
 
 https://blog.yokko-jp.com/?p=1565
 
+
+## 受信例
+### NAVTEX
+NAVAREA XI
+https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
+
+2187.5kHzのデジタル選択呼出（DSC）をデコードする
+https://vita-brevis.hatenablog.com/entry/2020/12/06/153221
+
+NDBとNAVTEX受信
+https://vita-brevis.hatenablog.com/entry/2020/06/01/035440
+
+
+
 https://blog.goediy.com/?p=717
