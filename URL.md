@@ -48,3 +48,16 @@ https://qiita.com/homelith/items/9acc6e307f33e73d676c
 
 https://qiita.com/chibiegg/items/35f60ee8d4551905f603
 
+### ひまわり/NOAA
+ソフトウェア受信機を使った衛星電波受信実験の教育利用 
+https://tenkyo.net/kaiho/pdf/2024_05/1toku-07matsudaira.pdf
+
+USBドングルで気象衛星を受信する
+https://note.com/ji3xok/n/n8faf761b9ba6
+
+人工衛星の電波をキャッチしよう！
+https://www.mirai-kougaku.jp/laboratory/pages/200221.php
+
+
+
+
