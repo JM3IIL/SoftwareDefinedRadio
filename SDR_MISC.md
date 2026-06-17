@@ -12,3 +12,8 @@ honkytonk Electronics Workshop
 SDRの問題を計算してみた (2024/12/25)
 https://www.e-momonga.com/honkytonk/2024/12/radio/1a_sdr.htm
 
+## まとめ
+- ハードウェアとソフトウェア
+- 受信帯域別
+
+- 
