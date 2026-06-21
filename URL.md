@@ -62,4 +62,7 @@ https://www.mirai-kougaku.jp/laboratory/pages/200221.php
 ### j-alert
 https://github.com/soltia48/sdrplusplus-j-alert-plugin
 
+### WEB-SDR
+https://ume599.hateblo.jp/entry/2024/11/13/112632
+
 
