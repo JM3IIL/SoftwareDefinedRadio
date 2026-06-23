@@ -64,6 +64,7 @@ https://github.com/soltia48/sdrplusplus-j-alert-plugin
 
 ### WEB-SDR
 http://www.websdr.org/
+http://rx.linkfanel.net/
 https://ume599.hateblo.jp/entry/2024/11/13/112632
 https://www.jh1lhv.tokyo/entry/2025/03/16/172917
 
