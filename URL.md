@@ -63,8 +63,16 @@ https://www.mirai-kougaku.jp/laboratory/pages/200221.php
 https://github.com/soltia48/sdrplusplus-j-alert-plugin
 
 ### WEB-SDR
+WebSDR
 http://www.websdr.org/
+
 http://rx.linkfanel.net/
+
+http://kiwisdr.com/public/
+
+世界のSDRで自分の電波を聞く/見る
 https://ume599.hateblo.jp/entry/2024/11/13/112632
+
+世界の電波を手軽に楽しむ！WebSDR・KiwiSDR の活用
 https://www.jh1lhv.tokyo/entry/2025/03/16/172917
 
