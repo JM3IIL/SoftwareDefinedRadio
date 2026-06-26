@@ -28,6 +28,7 @@ https://rxlife.net/review/ardv1Review.php
 ### ソフトウェア	
 デジタル復調の学習を目的として、ワンセグチューナーで地デジのフルセグTSを抜く
 https://qiita.com/amutou/items/5ae1e7dfb560ccfc4a69
+(ISDB-T)
 
 送受信SDRソフトウエア　<< KG-TRX >>
 http://www2.plala.or.jp/hikokibiyori/soft/kgtrx/
