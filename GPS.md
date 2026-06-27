@@ -13,4 +13,6 @@ gps-sdr-simで生成した信号をGNSS-SDRで受信する
 
 https://zenn.dev/gnss_egg_team/articles/49c51a2027f114
 
+## GPS Spoofing
+https://engineers.ffri.jp/entry/2021/02/08/102048
 
