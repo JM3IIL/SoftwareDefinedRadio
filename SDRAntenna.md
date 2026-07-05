@@ -12,3 +12,7 @@ https://tenkyo.net/kaiho/pdf/2024_05/1toku-07matsudaira.pdf
 
 衛星受信用アンテナ
 https://github.com/JM3IIL/AmateurRadio/blob/main/Antenna.md#satellite_receiving_antenna
+
+磁気ループアンテナ
+https://www.aordirect.jp/smartphone/page18.html
+
