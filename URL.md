@@ -20,8 +20,8 @@ https://pysdr.org/index.html
 
 ほか
 https://jm3atn.org/2021/05/08/rtl-sdr-blog-v3%E3%81%8C%E5%B1%8A%E3%81%84%E3%81%9F/
-https://monoist.itmedia.co.jp/mn/articles/2208/22/news019_2.html
 
+https://monoist.itmedia.co.jp/mn/articles/2208/22/news019_2.html
 
 https://blog.yokko-jp.com/?p=1565
 
@@ -37,7 +37,7 @@ https://vita-brevis.hatenablog.com/entry/2020/12/06/153221
 NDBとNAVTEX受信
 https://vita-brevis.hatenablog.com/entry/2020/06/01/035440
 
-
+###
 
 https://blog.goediy.com/?p=717
 
