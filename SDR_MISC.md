@@ -14,6 +14,9 @@ https://www.e-momonga.com/honkytonk/2024/12/radio/1a_sdr.htm
 
 ## まとめ
 - ハードウェアとソフトウェア
+
+https://akizukidenshi.com/catalog/r/rsdr/
+ 
 - 受信帯域別
 
 - 
